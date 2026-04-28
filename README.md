@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sonya Kiskachi!</h1>
+<h1 align="center">Hi, I'm Sonya 👋</h1>
 
 <p align="center">
-  <b>MS Statistics @ UC Berkeley &nbsp;·&nbsp; Data Science & ML &nbsp;·&nbsp; Former Data Scientist @ Wells Fargo</b>
+  <b>MS Statistics @ UC Berkeley &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Open to Full-Time Roles in Data Science & AI</b>
 </p>
 
 <p align="center">
@@ -13,30 +13,66 @@
     <img src="https://img.shields.io/badge/Portfolio-sonyak28.github.io-4A90D9?style=flat&logo=githubpages&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Full--time%20Roles%20%26%20Research-brightgreen?style=flat"/>
+  <a href="mailto:sonyak@berkeley.edu">
+    <img src="https://img.shields.io/badge/Email-sonyak@berkeley.edu-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a **Master's student in Statistics at UC Berkeley**, building deep expertise in statistical modeling, inference, and machine learning. I graduated in 2023 with a BA in Data Science (Geospatial Science Emphasis, 3.82 GPA) and have since applied these skills across finance, tech, and research.
+I'm a **Master's student in Statistics at UC Berkeley**, graduating May 2026. I hold a BA in Data Science (Geospatial Science Emphasis, 3.82 GPA) and have 2+ years of industry experience applying statistical and ML techniques to real-world problems in finance and tech.
 
-- 🏦 At **Wells Fargo**, I built NLP pipelines (FLAN-T5, BERT) to classify customer transcripts, automated compliance control reports, and reduced frontline review workload by 70%
-- 🍎 At **Apple**, I applied anomaly detection (chi-squared, k-means) to optimize internal tool quality assurance and designed custom test coverage metrics
-- 🌍 At **UC ANR**, I used satellite imagery + PCA to study oak dieback patterns across California, blending geospatial and statistical methods
-- 👩‍🏫 I've taught data science at UC Berkeley — leading labs and sections for over 2,000 students in the Data 8 course
+- 🏦 At **Wells Fargo**, I built NLP pipelines using FLAN-T5 and BERT to classify customer transcripts, automated compliance control reports with Python, and reduced frontline QC workload by 70%
+- 🍎 At **Apple**, I applied anomaly detection and k-means clustering to improve internal bug discovery tools, and built custom KPIs to quantify test coverage
+- 🌲 At **UC ANR**, I used satellite imagery and PCA to model oak tree mortality across Northern California, combining geospatial and statistical methods at scale
+- 👩‍🏫 I was a Lead Undergraduate Student Instructor for UC Berkeley's **Foundations of Data Science** — the largest class in UC history (1,800+ students)
 
-My work sits at the intersection of **statistics, machine learning, and real-world impact** — from fraud detection pipelines to environmental data modeling.
+I'm currently looking for **full-time roles in data science, ML, and AI** where I can apply statistical modeling, inference, and machine learning to high-impact problems.
 
 ---
 
-## 🔧 Skills & Tools
+## 🛠️ Skills
 
-**Languages:** Python · R · SQL · Jupyter  
-**ML / Stats:** Scikit-learn · PyTorch · BERT · FLAN-T5 · Bootstrapping · Hypothesis Testing · Regression · Bayesian Inference  
-**Data & Viz:** Pandas · NumPy · Matplotlib · ArcGIS · Pandas Profiling  
-**Other:** Git · NLP · Geospatial Analysis · A/B Testing · Experimental Design
+**Languages & Computing**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**ML & Statistics**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-A8A8A8?style=flat)
+![NLP](https://img.shields.io/badge/NLP%20%2F%20BERT%20%2F%20FLAN--T5-6DA4DB?style=flat)
+
+**Data & Geospatial**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat)
+
+---
+
+## 📚 Current Coursework (MS Statistics @ Berkeley)
+
+| Semester | Course | Topic |
+|----------|--------|-------|
+| Fall 2025 | STAT 201A | Introduction to Probability at an Advanced Level |
+| Fall 2025 | STAT 201B | Introduction to Statistics at an Advanced Level |
+| Fall 2025 | STAT 243 | Introduction to Statistical Computing |
+| Spring 2026 | STAT 214 | Data Analysis and Machine Learning for Real-World Decision Making |
+| Spring 2026 | STAT 230A | Linear Models |
+| Spring 2026 | CYPLAN 255 | Urban Informatics and Visualization |
 
 ---
 
@@ -49,35 +85,44 @@ End-to-end anomaly detection pipeline on real network traffic data, comparing a 
 ---
 
 ### 🌨️ [Arctic Cloud Detection](https://github.com/sonyak28/Arctic-Cloud-Detection)
-Machine learning pipeline for detecting clouds in Arctic satellite imagery — a challenging classification task due to surface reflectance similarity. Includes feature engineering and model comparison.  
+ML pipeline for classifying clouds in Arctic satellite imagery — a tricky task due to high surface reflectance similarity between clouds and snow/ice. Includes feature engineering and model comparison.  
 `Python` `Remote Sensing` `Classification` `Geospatial`
 
 ---
 
 ### 🧠 [Pediatric TBI Data Analysis](https://github.com/sonyak28/Pediatric-TBI-Data-Analysis)
-Statistical analysis of pediatric traumatic brain injury data, applying supervised methods and regression modeling to identify outcome predictors.  
+Statistical analysis of pediatric traumatic brain injury data, applying supervised classification and regression modeling to identify outcome predictors from clinical data.  
 `Python` `Statistical Modeling` `Healthcare Data`
 
 ---
 
-### 🏙️ [City Planning 255](https://github.com/sonyak28/City_Planning_255)
-Group final project analyzing urban planning data with geospatial and statistical methods.  
+### 🏙️ [City Planning 255 — Urban Informatics](https://github.com/sonyak28/City_Planning_255)
+Group research project using urban data, geospatial analysis, and visualization to analyze city planning problems.  
 `Python` `Geospatial Analysis` `Collaborative Research`
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Volunteer Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonyak28&show_icons=true&hide_border=true&theme=default&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonyak28&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
+**Mission Graduates — Math & Statistics Tutor** *(Jan 2024 – May 2025)*  
+Tutored high school students from low-income backgrounds in math and statistics. Developed curriculum, weekly assignments, and college application prep materials.
+
+**Wells Fargo SF Site Ambassador** *(Jul 2023 – Jul 2025)*  
+Organized fireside chats, leadership panels, and networking events. Led monthly DE&I discussions and women-in-technology workshops across the SF office.
 
 ---
 
-## 📬 Let's Connect
+## 🌍 A Bit More About Me
 
-I'm always happy to connect — whether it's about data science, research, collaboration, or just a good conversation.
+- 🇷🇺 Fluent in **Russian** (it's my first language!)
+- 🧭 I love **geocaching** — basically a worldwide treasure hunt using GPS
+- 📍 Based in the **Bay Area**
 
-📧 [LinkedIn](https://www.linkedin.com/in/sonya-kiskachi/) &nbsp;·&nbsp; 🌐 [Portfolio](https://sonyak28.github.io/)
+---
+
+<p align="center">
+  <i>Open to full-time data science, ML, and AI roles — let's connect!</i><br/>
+  <a href="https://www.linkedin.com/in/sonya-kiskachi/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://sonyak28.github.io/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:sonyak@berkeley.edu">Email</a>
+</p>
