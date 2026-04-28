@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sonya 👋</h1>
+<h1 align="center">Hi, I'm Sonya</h1>
 
 <p align="center">
   <b>MS Statistics @ UC Berkeley &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Open to Full-Time Roles in Data Science & AI</b>
@@ -63,7 +63,7 @@ I'm currently looking for **full-time roles in data science, ML, and AI** where 
 
 ---
 
-## 📚 Current Coursework (MS Statistics @ Berkeley)
+## 📚 Current Coursework (MA Statistics @ Berkeley)
 
 | Semester | Course | Topic |
 |----------|--------|-------|
