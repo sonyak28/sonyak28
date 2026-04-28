@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sonya</h1>
 
 <p align="center">
-  <b>MS Statistics @ UC Berkeley &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Open to Full-Time Roles in Data Science & AI</b>
+  <b>MA Statistics @ UC Berkeley &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Open to Full-Time Roles in Data Science & AI</b>
 </p>
 
 <p align="center">
