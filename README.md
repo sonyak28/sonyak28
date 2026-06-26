@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sonya</h1>
 
 <p align="center">
-  <b>MA Statistics @ UC Berkeley &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Open to Full-Time Roles in Data Science & AI</b>
+  <b>MS Statistics, UC Berkeley &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Open to Full-Time Roles in Data Science & AI</b>
 </p>
 
 <p align="center">
@@ -22,14 +22,27 @@
 
 ## About Me
 
-I'm a **Master's student in Statistics at UC Berkeley**, graduating May 2026. I hold a BA in Data Science (Geospatial Science Emphasis, 3.82 GPA) and have 2+ years of industry experience applying statistical and ML techniques to real-world problems in finance and tech.
+I'm a **statistician and data scientist** with an MS in Statistics from UC Berkeley (May 2026) and a BA in Data Science (Geospatial Science Emphasis, 3.82 GPA). I have 2+ years of industry experience applying statistical and ML techniques to real-world problems in finance and tech, and I'm currently doing applied research at The Nature Conservancy California on streamflow modeling across the state.
 
+- 🌊 At **The Nature Conservancy California**, I'm applying proportional rescaling methods to improve daily streamflow estimates across ~155,000 California stream segments, combining LSTM deep learning models with trusted monthly hydrological baselines
 - 🏦 At **Wells Fargo**, I built NLP pipelines using FLAN-T5 and BERT to classify customer transcripts, automated compliance control reports with Python, and reduced frontline QC workload by 70%
 - 🍎 At **Apple**, I applied anomaly detection and k-means clustering to improve internal bug discovery tools, and built custom KPIs to quantify test coverage
 - 🌲 At **UC ANR**, I used satellite imagery and PCA to model oak tree mortality across Northern California, combining geospatial and statistical methods at scale
 - 👩‍🏫 I was a Lead Undergraduate Student Instructor for UC Berkeley's **Foundations of Data Science** — the largest class in UC history (1,800+ students)
 
 I'm currently looking for **full-time roles in data science, ML, and AI** where I can apply statistical modeling, inference, and machine learning to high-impact problems.
+
+---
+
+## 💼 Experience
+
+| Organization | Role | Period |
+|---|---|---|
+| 🌊 The Nature Conservancy California | Data Science Research Collaborator | Summer 2026 |
+| 🏦 Wells Fargo | Data Scientist & NLP Engineer | Jul 2023 – Jul 2025 |
+| 🍎 Apple | Machine Learning Intern | Summer 2022 |
+| 🌿 UC ANR | Geospatial Data Science Researcher | 2022 – 2023 |
+| 📚 UC Berkeley | Lead Undergraduate Student Instructor, Data 8 | 2021 – 2023 |
 
 ---
 
@@ -63,19 +76,6 @@ I'm currently looking for **full-time roles in data science, ML, and AI** where 
 
 ---
 
-## 📚 Current Coursework (MA Statistics @ Berkeley)
-
-| Semester | Course | Topic |
-|----------|--------|-------|
-| Fall 2025 | STAT 201A | Introduction to Probability at an Advanced Level |
-| Fall 2025 | STAT 201B | Introduction to Statistics at an Advanced Level |
-| Fall 2025 | STAT 243 | Introduction to Statistical Computing |
-| Spring 2026 | STAT 214 | Data Analysis and Machine Learning for Real-World Decision Making |
-| Spring 2026 | STAT 230A | Linear Models |
-| Spring 2026 | CYPLAN 255 | Urban Informatics and Visualization |
-
----
-
 ## 📂 Featured Projects
 
 ### 🔍 [Network Anomaly Detection](https://github.com/sonyak28/network-anomaly-detection)
@@ -97,7 +97,7 @@ Statistical analysis of pediatric traumatic brain injury data, applying supervis
 ---
 
 ### 🏙️ [City Planning 255 — Urban Informatics](https://github.com/sonyak28/City_Planning_255)
-Group research project using urban data, geospatial analysis, and visualization to analyze city planning problems.  
+Group research project using urban data, geospatial analysis, and visualization to analyze walkable amenity access disparities across Bay Area transit stations.  
 `Python` `Geospatial Analysis` `Collaborative Research`
 
 ---
