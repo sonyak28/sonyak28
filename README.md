@@ -78,9 +78,9 @@ I'm currently looking for **full-time roles in data science, ML, and AI** where 
 
 ## 📂 Featured Projects
 
-### 🔍 [Network Anomaly Detection](https://github.com/sonyak28/network-anomaly-detection)
-End-to-end anomaly detection pipeline on real network traffic data, comparing a tree-based unsupervised method (Isolation Forest) with a deep learning sequence model (LSTM Autoencoder). Includes full preprocessing, evaluation, and visualization.  
-`Python` `Scikit-learn` `PyTorch` `Unsupervised Learning` `Deep Learning`
+### 🧠 [LLM Based fMRI Brain Encoding](https://github.com/sonyak28/llm-fmri-brain-encoding)
+Language model pipeline using BERT variants to tokenize and embed stimulus text, mapping embeddings to fMRI brain activity for encoding prediction. Fine tuned with LoRA and evaluated interpretability and data quality using SHAP and LIME.  
+`Python` `PyTorch` `BERT` `LoRA` `SHAP`
 
 ---
 
